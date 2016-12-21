@@ -1,654 +1,179 @@
 <root>
-	<graphicsPreferences>
-		<graphicsSettingsVersion>	1	</graphicsSettingsVersion>
-		<graphicsSettingsVersionMinor>	0	</graphicsSettingsVersionMinor>
-		<graphicsSettingsStatus>	3	</graphicsSettingsStatus>
-		<detector>
-			<gpuMemory>	2085093376	</gpuMemory>
-			<gpuScore>	79	</gpuScore>
-			<ram>	20161	</ram>
-			<virtualMemory>	4095	</virtualMemory>
-			<cpuScore>	14008	</cpuScore>
-		</detector>
-		<deviceGUID>	D7B71E3E.11CF5282.200D0D16.35D8C21B	</deviceGUID>
-		<entry>
-			<label>	RENDER_PIPELINE	</label>
-			<activeOption>	0	</activeOption>
-		</entry>
-		<entry>
-			<label>	SHADOWS_QUALITY	</label>
-			<activeOption>	0	</activeOption>
-		</entry>
-		<entry>
-			<label>	LIGHTING_QUALITY	</label>
-			<activeOption>	1	</activeOption>
-		</entry>
-		<entry>
-			<label>	PARTICLE_QUALITY	</label>
-			<activeOption>	0	</activeOption>
-		</entry>
-		<entry>
-			<label>	SEA_REFLECTION_QUALITY	</label>
-			<activeOption>	0	</activeOption>
-		</entry>
-		<entry>
-			<label>	SCREENSPACE_REFLECTIONS	</label>
-			<activeOption>	3	</activeOption>
-		</entry>
-		<entry>
-			<label>	TEXTURE_QUALITY	</label>
-			<activeOption>	0	</activeOption>
-		</entry>
-		<entry>
-			<label>	TEXTURE_COMPRESSION	</label>
-			<activeOption>	0	</activeOption>
-		</entry>
-		<entry>
-			<label>	MSAA_MODE	</label>
-			<activeOption>	1	</activeOption>
-		</entry>
-		<entry>
-			<label>	TEXTURE_FILTERING	</label>
-			<activeOption>	0	</activeOption>
-		</entry>
-		<entry>
-			<label>	SOUND_PRESET	</label>
-			<activeOption>	1	</activeOption>
-		</entry>
-		<entry>
-			<label>	GAMELOGIC_PRESET	</label>
-			<activeOption>	0	</activeOption>
-		</entry>
-		<entry>
-			<label>	LOW_QUALITY_GUI	</label>
-			<activeOption>	1	</activeOption>
-		</entry>
-		<entry>
-			<label>	USE_GUI_EFFECTS	</label>
-			<activeOption>	1	</activeOption>
-		</entry>
-		<entry>
-			<label>	MISC_SETTING	</label>
-			<activeOption>	2	</activeOption>
-		</entry>
-		<entry>
-			<label>	TERRAIN_LOD	</label>
-			<activeOption>	0	</activeOption>
-		</entry>
-		<entry>
-			<label>	TERRAIN_MESH_RESOLUTION	</label>
-			<activeOption>	0	</activeOption>
-		</entry>
-		<entry>
-			<label>	TERRAIN_LIGHTING_QUALITY	</label>
-			<activeOption>	0	</activeOption>
-		</entry>
-		<entry>
-			<label>	FOREST_QUALITY	</label>
-			<activeOption>	0	</activeOption>
-		</entry>
-		<entry>
-			<label>	SKIP_LOD	</label>
-			<activeOption>	0	</activeOption>
-		</entry>
-		<entry>
-			<label>	DECALS_QUALITY	</label>
-			<activeOption>	0	</activeOption>
-		</entry>
-		<entry>
-			<label>	SOFT_PARTICLES	</label>
-			<activeOption>	0	</activeOption>
-		</entry>
-		<entry>
-			<label>	PARTICLES_PRESET	</label>
-			<activeOption>	0	</activeOption>
-		</entry>
-		<entry>
-			<label>	PARTICLES_SHADOWS_QUALITY	</label>
-			<activeOption>	3	</activeOption>
-		</entry>
-		<entry>
-			<label>	FLAGS_QUALITY	</label>
-			<activeOption>	0	</activeOption>
-		</entry>
-		<entry>
-			<label>	POST_PROCESSING	</label>
-			<activeOption>	0	</activeOption>
-		</entry>
-		<entry>
-			<label>	FXAA_QUALITY	</label>
-			<activeOption>	0	</activeOption>
-		</entry>
-		<entry>
-			<label>	COLORBLIND_MODE	</label>
-			<activeOption>	3	</activeOption>
-		</entry>
-		<entry>
-			<label>	VOLUMETRICCLOUDS	</label>
-			<activeOption>	0	</activeOption>
-		</entry>
-		<entry>
-			<label>	ARMOR_SYSTEM_QUALITY	</label>
-			<activeOption>	2	</activeOption>
-		</entry>
-		<entry>
-			<label>	FAR_PLANE	</label>
-			<activeOption>	0	</activeOption>
-		</entry>
-		<entry>
-			<label>	SEA_SIMULATION_QUALITY	</label>
-			<activeOption>	0	</activeOption>
-		</entry>
-		<entry>
-			<label>	OBJECT_LOD	</label>
-			<activeOption>	0	</activeOption>
-		</entry>
-	</graphicsPreferences>
-	<devicePreferences>
-		<adapterOrdinal>	0	</adapterOrdinal>
-		<windowMode>	2	</windowMode>
-		<maximized>	false	</maximized>
-		<waitVSync>	true	</waitVSync>
-		<tripleBuffering>	true	</tripleBuffering>
-		<aspectRatio>	1.727	</aspectRatio>
-		<userGamma>	1	</userGamma>
-		<colorblindIntensity>	1	</colorblindIntensity>
-		<windowedWidth>	1432	</windowedWidth>
-		<windowedHeight>	829	</windowedHeight>
-		<fullscreenWidth>	1440	</fullscreenWidth>
-		<fullscreenHeight>	900	</fullscreenHeight>
-	</devicePreferences>
-	<scriptsPreferences>
-		<lobby_values>
-			<port_preset>	arpeggio	</port_preset>
-			<i_dont_like_premium_port>	false	</i_dont_like_premium_port>
-			<ship>	4077795024	</ship>
-			<game_type>	RandomBattle	</game_type>
-			<shipBattleHistory>	4181604048,1482236957,4255037136,1482238336	</shipBattleHistory>
-			<is_forced_preset_spb>	false	</is_forced_preset_spb>
-			<is_forced_preset_hall16>	false	</is_forced_preset_hall16>
-		</lobby_values>
-		<sound>
-			<quick_commands>	1	</quick_commands>
-			<dynamic_range>	1	</dynamic_range>
-			<ui_volume>	1	</ui_volume>
-			<shoot_volume>	1	</shoot_volume>
-			<music_volume>	1	</music_volume>
-			<world_volume>	1	</world_volume>
-			<master_volume>	0.53	</master_volume>
-			<engines_volume>	1	</engines_volume>
-			<sound_volume>	1	</sound_volume>
-			<voice_volume>	1	</voice_volume>
-			<music_battle>	1	</music_battle>
-			<music_port>	1	</music_port>
-			<voice_package>	DE	</voice_package>
-			<voice_mod>	Ashigara	</voice_mod>
-			<enable_user_music>	0	</enable_user_music>
-		</sound>
-		<ui>
-			<curRowCountIndex>	1	</curRowCountIndex>
-			<IMPositionX>
-				<IM>	772	</IM>
-				<TH>	188.0000	</TH>
-				<MLC>	1111.0000	</MLC>
-				<SB>	520.0000	</SB>
-			</IMPositionX>
-			<IMPositionY>
-				<IM>	118	</IM>
-				<TH>	46.0000	</TH>
-				<MLC>	6.0000	</MLC>
-				<SB>	350.0000	</SB>
-			</IMPositionY>
-			<shipCarouselSortIndex>	0	</shipCarouselSortIndex>
-			<isSmallCarouselView>	true	</isSmallCarouselView>
-			<modernizationInset>	1	</modernizationInset>
-			<exteriorInset>	2	</exteriorInset>
-			<commentWantTo_division />
-			<commentWantTo_party />
-			<enableLanguageBar>	true	</enableLanguageBar>
-			<showPortClock>	true	</showPortClock>
-			<crosshairIsDynamic>	false	</crosshairIsDynamic>
-			<crosshairIndexStatic>	7	</crosshairIndexStatic>
-			<crosshairIndexDynamic>	0	</crosshairIndexDynamic>
-			<sseChallengesLayout>	0	</sseChallengesLayout>
-			<sseBattleTasksLayout>	0	</sseBattleTasksLayout>
-			<summaryInset>	1	</summaryInset>
-			<profileInset>	2	</profileInset>
-			<contactsInset>	0	</contactsInset>
-			<contactsAndChannelsHeight>	619	</contactsAndChannelsHeight>
-			<chatBoxPositionX>
-				<prebattle>	538	</prebattle>
-				<2009282661@wowsasia.loc>	567.0000	</2009282661@wowsasia.loc>
-				<2008583172@wowsasia.loc>	658	</2008583172@wowsasia.loc>
-				<2006737063@wowsasia.loc>	600	</2006737063@wowsasia.loc>
-			</chatBoxPositionX>
-			<chatBoxPositionY>
-				<prebattle>	247	</prebattle>
-				<2009282661@wowsasia.loc>	404.0000	</2009282661@wowsasia.loc>
-				<2008583172@wowsasia.loc>	419	</2008583172@wowsasia.loc>
-				<2006737063@wowsasia.loc>	467	</2006737063@wowsasia.loc>
-			</chatBoxPositionY>
-			<PBSEconomicsExpand>
-				<creditsTakenTillDamage>	true	</creditsTakenTillDamage>
-				<creditsSpentPerBattle>	true	</creditsSpentPerBattle>
-				<crewPoints>	true	</crewPoints>
-				<creditsBattleTasks>	true	</creditsBattleTasks>
-				<creditsModifiers>	true	</creditsModifiers>
-			</PBSEconomicsExpand>
-			<showOwnShipInCompare>	true	</showOwnShipInCompare>
-			<showCursorInBattleStats>	false	</showCursorInBattleStats>
-			<elementsGroupExpand>
-				<showSettingsBoxBox>	false	</showSettingsBoxBox>
-				<customTimerEnabled>	true	</customTimerEnabled>
-				<targetInfoEnabled>	true	</targetInfoEnabled>
-				<hitlogOwnShipEnabled>	true	</hitlogOwnShipEnabled>
-				<clockEnabled>	true	</clockEnabled>
-				<fragsEnabled>	true	</fragsEnabled>
-				<hitlogEnabled>	true	</hitlogEnabled>
-				<showSettingsBox>	false	</showSettingsBox>
-				<showParams>	false	</showParams>
-				<showIcons>	false	</showIcons>
-				<showNickNames>	true	</showNickNames>
-				<useStats>	false	</useStats>
-				<showPRO>	true	</showPRO>
-				<showRating>	true	</showRating>
-				<showWR>	true	</showWR>
-				<showPanels>	true	</showPanels>
-				<showKilled>	true	</showKilled>
-				<showShipNames>	true	</showShipNames>
-				<showLevel>	false	</showLevel>
-				<showClasses>	true	</showClasses>
-				<showLamp>	true	</showLamp>
-				<showFrags>	true	</showFrags>
-			</elementsGroupExpand>
-			<detailedRibbons>	true	</detailedRibbons>
-			<shownHintAutoPurchaseExterior>	true	</shownHintAutoPurchaseExterior>
-			<shownHintAutoPurchaseConsumables>	true	</shownHintAutoPurchaseConsumables>
-			<notificationsInboxHeight>	858	</notificationsInboxHeight>
-			<playerProfileSummaryInset>	0	</playerProfileSummaryInset>
-			<shipStatsSortIndex>	0	</shipStatsSortIndex>
-			<chatBoxWidth>
-				<prebattle>	462	</prebattle>
-				<Lang>	1.0000	</Lang>
-				<customIcons>	0.0000	</customIcons>
-				<colorClasses>	1.0000	</colorClasses>
-				<scalePanels>	0.7480	</scalePanels>
-				<colorHP>	1.0000	</colorHP>
-				<heightHP>	43.7500	</heightHP>
-				<alphaHPbar>	0.1900	</alphaHPbar>
-				<clan-2000007542@clans.wows.wowsasia.loc>	462	</clan-2000007542@clans.wows.wowsasia.loc>
-			</chatBoxWidth>
-			<chatBoxHeight>
-				<prebattle>	347	</prebattle>
-				<clan-2000007542@clans.wows.wowsasia.loc>	347	</clan-2000007542@clans.wows.wowsasia.loc>
-			</chatBoxHeight>
-			<shipSortStatsDirection>	false	</shipSortStatsDirection>
-		</ui>
-		<net_credentials>
-			<save_credentials>	true	</save_credentials>
-			<active_server>	WOWS ASIA	</active_server>
-			<login>	diannaojiang@163.com	</login>
-			<token>	9:2007935278:3218107666166851358:153084538640174591039504824743303885543	</token>
-		</net_credentials>
-		<autoPilotMode>	0	</autoPilotMode>
-		<ussSettings>
-			<contrast>	1	</contrast>
-			<blurEnabled>	0	</blurEnabled>
-		</ussSettings>
-		<battle>
-			<stickyAltView>	true	</stickyAltView>
-			<minimapRotation>	true	</minimapRotation>
-			<enableEars>	true	</enableEars>
-			<carrierSettingsLock>	true	</carrierSettingsLock>
-			<terrainShootingMode>	0	</terrainShootingMode>
-			<autoPilotMode>	0	</autoPilotMode>
-			<minimapSizeIndex>	1	</minimapSizeIndex>
-			<simultaneousReload>	true	</simultaneousReload>
-			<autoATBAswitch>	true	</autoATBAswitch>
-			<hedgehogMode>	true	</hedgehogMode>
-		</battle>
-		<camera>
-			<autoChangePosition>	true	</autoChangePosition>
-			<sensY>	0.65	</sensY>
-			<sensZ>	0.65	</sensZ>
-			<sensX>	0.65	</sensX>
-			<resistanceEffect>	true	</resistanceEffect>
-			<wheelTransition>	true	</wheelTransition>
-			<autoTrackTarget>	true	</autoTrackTarget>
-			<damageEffect>	false	</damageEffect>
-			<yawBarrierTorpedoes>	false	</yawBarrierTorpedoes>
-			<startBattleTps>	false	</startBattleTps>
-			<signY>	1	</signY>
-			<observeYawRestore>	true	</observeYawRestore>
-			<carrierShiftDisable>	true	</carrierShiftDisable>
-		</camera>
-		<weaponSection>
-			<2007935278>
-				<4289640144>
-					<0>	1	</0>
-					<2>	0	</2>
-				</4289640144>
-				<4255037136>
-					<0>	0	</0>
-					<2>	0	</2>
-				</4255037136>
-				<4287510224>
-					<0>	0	</0>
-					<2>	0	</2>
-					<1>	0	</1>
-				</4287510224>
-				<4267587280>
-					<0>	0	</0>
-					<2>	0	</2>
-					<1>	1	</1>
-				</4267587280>
-				<4182685488>
-					<0>	0	</0>
-					<2>	0	</2>
-				</4182685488>
-				<3762206160>
-					<0>	1	</0>
-					<2>	0	</2>
-					<1>	1	</1>
-				</3762206160>
-				<4272830448>
-					<0>	0	</0>
-					<2>	0	</2>
-					<1>	0	</1>
-				</4272830448>
-				<4285511376 />
-				<3764303312>
-					<0>	1	</0>
-					<2>	0	</2>
-				</3764303312>
-				<3764270288>
-					<0>	0	</0>
-					<2>	0	</2>
-					<1>	1	</1>
-				</3764270288>
-				<4292818736>
-					<0>	1	</0>
-					<2>	0	</2>
-				</4292818736>
-				<4290688720>
-					<0>	0	</0>
-					<2>	0	</2>
-					<1>	1	</1>
-				</4290688720>
-				<4281284592>
-					<0>	1	</0>
-				</4281284592>
-				<4288591856>
-					<0>	0	</0>
-					<2>	0	</2>
-					<1>	1	</1>
-				</4288591856>
-				<4183700944>
-					<0>	0	</0>
-					<2>	1	</2>
-				</4183700944>
-				<3551442640>
-					<0>	0	</0>
-					<2>	0	</2>
-				</3551442640>
-				<4180555216>
-					<0>	0	</0>
-					<2>	0	</2>
-					<1>	1	</1>
-				</4180555216>
-				<3554621136>
-					<0>	1	</0>
-				</3554621136>
-				<4293801232>
-					<0>	1	</0>
-					<2>	0	</2>
-				</4293801232>
-				<4293834000>
-					<0>	0	</0>
-				</4293834000>
-				<4188977104>
-					<0>	0	</0>
-				</4188977104>
-				<4187928528>
-					<0>	0	</0>
-				</4187928528>
-				<3552491216>
-					<0>	1	</0>
-					<2>	0	</2>
-				</3552491216>
-				<4181604048>
-					<0>	0	</0>
-					<2>	0	</2>
-					<1>	0	</1>
-				</4181604048>
-				<4077795024>
-					<0>	0	</0>
-					<2>	0	</2>
-					<1>	0	</1>
-				</4077795024>
-				<3761190896>
-					<0>	1	</0>
-				</3761190896>
-			</2007935278>
-			<0>
-				<4289640144>
-					<0>	1	</0>
-					<2>	0	</2>
-				</4289640144>
-				<4287510224>
-					<0>	0	</0>
-					<2>	1	</2>
-					<1>	0	</1>
-				</4287510224>
-				<3764270288>
-					<0>	0	</0>
-					<2>	0	</2>
-				</3764270288>
-				<3762206160>
-					<0>	1	</0>
-					<2>	0	</2>
-				</3762206160>
-				<4183700944>
-					<0>	0	</0>
-					<2>	0	</2>
-				</4183700944>
-				<4182685488>
-					<0>	0	</0>
-					<2>	0	</2>
-				</4182685488>
-				<3764303312>
-					<0>	0	</0>
-					<2>	0	</2>
-				</3764303312>
-				<3555669712>
-					<0>	1	</0>
-				</3555669712>
-				<4272830448>
-					<0>	0	</0>
-					<2>	0	</2>
-					<1>	0	</1>
-				</4272830448>
-				<4180555216>
-					<0>	0	</0>
-					<2>	1	</2>
-				</4180555216>
-				<4181604048>
-					<0>	0	</0>
-					<2>	0	</2>
-					<1>	0	</1>
-				</4181604048>
-				<4182652624>
-					<0>	0	</0>
-					<2>	0	</2>
-					<1>	0	</1>
-				</4182652624>
-				<3761190896>
-					<0>	1	</0>
-				</3761190896>
-			</0>
-			<61082889>
-				<4187928016>
-					<0>	0	</0>
-				</4187928016>
-			</61082889>
-			<2008784563>
-				<4188976592>
-					<0>	1	</0>
-				</4188976592>
-				<4187928016>
-					<0>	1	</0>
-				</4187928016>
-				<4292753104>
-					<0>	0	</0>
-					<2>	0	</2>
-				</4292753104>
-			</2008784563>
-		</weaponSection>
-		<loading>
-			<tabIndex>	1	</tabIndex>
-		</loading>
-		<account>
-			<currency>
-				<3764303312>
-					<PCY013_SpotterPremium>	false	</PCY013_SpotterPremium>
-					<PCY009_CrashCrewPremium>	false	</PCY009_CrashCrewPremium>
-				</3764303312>
-				<4287510224>
-					<PCY009_CrashCrewPremium>	false	</PCY009_CrashCrewPremium>
-					<PCY014_SmokeGeneratorPremium>	false	</PCY014_SmokeGeneratorPremium>
-				</4287510224>
-				<3762206160>
-					<PCY014_SmokeGeneratorPremium>	false	</PCY014_SmokeGeneratorPremium>
-					<PCY009_CrashCrewPremium>	false	</PCY009_CrashCrewPremium>
-					<PCY011_AirDefenseDispPremium>	false	</PCY011_AirDefenseDispPremium>
-				</3762206160>
-				<4289640144>
-					<PCY009_CrashCrewPremium>	false	</PCY009_CrashCrewPremium>
-				</4289640144>
-				<4182685488>
-					<PCY009_CrashCrewPremium>	false	</PCY009_CrashCrewPremium>
-					<PCY016_SonarSearchPremium>	false	</PCY016_SonarSearchPremium>
-				</4182685488>
-				<4183700944>
-					<PCY009_CrashCrewPremium>	false	</PCY009_CrashCrewPremium>
-					<PCY014_SmokeGeneratorPremium>	false	</PCY014_SmokeGeneratorPremium>
-				</4183700944>
-				<4180555216>
-					<PCY009_CrashCrewPremium>	false	</PCY009_CrashCrewPremium>
-					<PCY014_SmokeGeneratorPremium>	false	</PCY014_SmokeGeneratorPremium>
-					<PCY015_SpeedBoosterPremium>	false	</PCY015_SpeedBoosterPremium>
-				</4180555216>
-				<4288591856>
-					<PCY020_RLSSearchPremium>	false	</PCY020_RLSSearchPremium>
-				</4288591856>
-				<4281284592>
-					<PCY010_RegenCrewPremium>	false	</PCY010_RegenCrewPremium>
-					<PCY009_CrashCrewPremium>	false	</PCY009_CrashCrewPremium>
-				</4281284592>
-				<3554621136>
-					<PCY010_RegenCrewPremium>	false	</PCY010_RegenCrewPremium>
-					<PCY009_CrashCrewPremium>	false	</PCY009_CrashCrewPremium>
-				</3554621136>
-				<4292818736>
-					<PCY009_CrashCrewPremium>	false	</PCY009_CrashCrewPremium>
-					<PCY010_RegenCrewPremium>	false	</PCY010_RegenCrewPremium>
-				</4292818736>
-				<4272830448>
-					<PCY011_AirDefenseDispPremium>	false	</PCY011_AirDefenseDispPremium>
-				</4272830448>
-				<4293801232>
-					<PCY010_RegenCrewPremium>	false	</PCY010_RegenCrewPremium>
-					<PCY009_CrashCrewPremium>	false	</PCY009_CrashCrewPremium>
-					<PCY014_SmokeGeneratorPremium>	false	</PCY014_SmokeGeneratorPremium>
-					<PCY015_SpeedBoosterPremium>	false	</PCY015_SpeedBoosterPremium>
-				</4293801232>
-				<4285511376>
-					<PCY009_CrashCrewPremium>	false	</PCY009_CrashCrewPremium>
-				</4285511376>
-				<4267587280>
-					<PCY009_CrashCrewPremium>	false	</PCY009_CrashCrewPremium>
-					<PCY014_SmokeGeneratorPremium>	false	</PCY014_SmokeGeneratorPremium>
-					<PCY015_SpeedBoosterPremium>	false	</PCY015_SpeedBoosterPremium>
-				</4267587280>
-				<3552491216>
-					<PCY009_CrashCrewPremium>	false	</PCY009_CrashCrewPremium>
-					<PCY012_FighterPremium>	false	</PCY012_FighterPremium>
-					<PCY010_RegenCrewPremium>	false	</PCY010_RegenCrewPremium>
-				</3552491216>
-				<4077795024>
-					<PCY009_CrashCrewPremium>	false	</PCY009_CrashCrewPremium>
-					<PCY014_SmokeGeneratorPremium>	false	</PCY014_SmokeGeneratorPremium>
-					<PCY015_SpeedBoosterPremium>	false	</PCY015_SpeedBoosterPremium>
-					<PCY018_TorpedoReloaderPremium>	false	</PCY018_TorpedoReloaderPremium>
-				</4077795024>
-				<4255037136>
-					<PCY010_RegenCrewPremium>	false	</PCY010_RegenCrewPremium>
-					<PCY009_CrashCrewPremium>	false	</PCY009_CrashCrewPremium>
-				</4255037136>
-			</currency>
-		</account>
-		<isReplayEnabled>	true	</isReplayEnabled>
-		<ReplayCameraUpdate>	30	</ReplayCameraUpdate>
-		<isReplayEnabled>	true	</isReplayEnabled>
-		<ReplayCameraUpdate>	30	</ReplayCameraUpdate>
-		<minimapOptions>
-			<visibilityRangeEnabled>	true	</visibilityRangeEnabled>
-			<mgRangeEnabled>	true	</mgRangeEnabled>
-			<taRangeEnabled>	true	</taRangeEnabled>
-			<visibilityPlaneRangeEnabled>	true	</visibilityPlaneRangeEnabled>
-			<aaRangeEnabled>	false	</aaRangeEnabled>
-			<lastVisEnabled>	true	</lastVisEnabled>
-			<atbaRangeEnabled>	true	</atbaRangeEnabled>
-			<PASD021_Fletcher_1943>
-				<aaRangeEnabled>	false	</aaRangeEnabled>
-			</PASD021_Fletcher_1943>
-			<PRSC508_Kutuzov_1952>
-				<aaRangeEnabled>	true	</aaRangeEnabled>
-			</PRSC508_Kutuzov_1952>
-			<distanceDisplayEnabled>	true	</distanceDisplayEnabled>
-			<PJSC004_Yubari_1944>
-				<aaRangeEnabled>	true	</aaRangeEnabled>
-			</PJSC004_Yubari_1944>
-			<PASC006_Atlanta_1942>
-				<aaRangeEnabled>	true	</aaRangeEnabled>
-			</PASC006_Atlanta_1942>
-			<waterAlpha>	67	</waterAlpha>
-			<PRSC506_Molotov_1943>
-				<aaRangeEnabled>	true	</aaRangeEnabled>
-			</PRSC506_Molotov_1943>
-			<PJSC038_Atago_1944>
-				<aaRangeEnabled>	true	</aaRangeEnabled>
-			</PJSC038_Atago_1944>
-			<PJSC708_ARP_Takao>
-				<aaRangeEnabled>	true	</aaRangeEnabled>
-			</PJSC708_ARP_Takao>
-			<PRSD109_Pr_48_Kiev>
-				<aaRangeEnabled>	false	</aaRangeEnabled>
-			</PRSD109_Pr_48_Kiev>
-			<PJSD108_Akizuki>
-				<aaRangeEnabled>	false	</aaRangeEnabled>
-			</PJSD108_Akizuki>
-			<PASB509_Missouri>
-				<aaRangeEnabled>	true	</aaRangeEnabled>
-			</PASB509_Missouri>
-		</minimapOptions>
-		<voice_chat>
-			<enabled>	true	</enabled>
-			<output_device>	Default System Device	</output_device>
-			<output_volume>	0.5	</output_volume>
-			<input_volume>	0.5	</input_volume>
-			<input_device>	Default System Device	</input_device>
-			<talk_mode>	1	</talk_mode>
-		</voice_chat>
-		<sort_props>
-			<item>	shipFilter::country,level,stypeIdent,lastBattleTime	</item>
-		</sort_props>
-		<inset>
-			<4>	2	</4>
-			<3>	1	</3>
-			<1>	0	</1>
-		</inset>
-		<filters />
-	</scriptsPreferences>
-	<consoleHistory />
+  <graphicsPreferences>
+    <graphicsSettingsVersion>	1	</graphicsSettingsVersion>
+    <graphicsSettingsVersionMinor>	0	</graphicsSettingsVersionMinor>
+    <graphicsSettingsStatus>	3	</graphicsSettingsStatus>
+    <detector>
+      <gpuMemory>	2085093376	</gpuMemory>
+      <gpuScore>	79	</gpuScore>
+      <ram>	20161	</ram>
+      <virtualMemory>	4095	</virtualMemory>
+      <cpuScore>	13956	</cpuScore>
+    </detector>
+    <deviceGUID>	7713E.11C5282.200012.35721C	</deviceGUID>
+    <entry>
+      <label>	MSAA_MODE	</label>
+      <activeOption>	0	</activeOption>
+    </entry>
+    <entry>
+      <label>	RENDER_PIPELINE	</label>
+      <activeOption>	0	</activeOption>
+    </entry>
+    <entry>
+      <label>	SHADOWS_QUALITY	</label>
+      <activeOption>0</activeOption>
+    </entry>
+    <entry>
+      <label>	LIGHTING_QUALITY	</label>
+      <activeOption>	1	</activeOption>
+    </entry>
+    <entry>
+      <label>	PARTICLE_QUALITY	</label>
+      <activeOption>0</activeOption>
+    </entry>
+    <entry>
+      <label>	SEA_REFLECTION_QUALITY	</label>
+      <activeOption>0</activeOption>
+    </entry>
+    <entry>
+      <label>	TEXTURE_QUALITY	</label>
+      <activeOption>0</activeOption>
+    </entry>
+    <entry>
+      <label>	TEXTURE_COMPRESSION	</label>
+      <activeOption>	0	</activeOption>
+    </entry>
+    <entry>
+      <label>	TEXTURE_FILTERING	</label>
+      <activeOption>0</activeOption>
+    </entry>
+    <entry>
+      <label>	SOUND_PRESET	</label>
+      <activeOption>	1	</activeOption>
+    </entry>
+    <entry>
+      <label>	GAMELOGIC_PRESET	</label>
+      <activeOption>	0	</activeOption>
+    </entry>
+    <entry>
+      <label>	LOW_QUALITY_GUI	</label>
+      <activeOption>	1	</activeOption>
+    </entry>
+    <entry>
+      <label>	USE_GUI_EFFECTS	</label>
+      <activeOption>1</activeOption>
+    </entry>
+    <entry>
+      <label>	MISC_SETTING	</label>
+      <activeOption>	2	</activeOption>
+    </entry>
+    <entry>
+      <label>	TERRAIN_LOD	</label>
+      <activeOption>	0	</activeOption>
+    </entry>
+    <entry>
+      <label>	TERRAIN_MESH_RESOLUTION	</label>
+      <activeOption>	0	</activeOption>
+    </entry>
+    <entry>
+      <label>	TERRAIN_LIGHTING_QUALITY	</label>
+      <activeOption>	0	</activeOption>
+    </entry>
+    <entry>
+      <label>	FOREST_QUALITY	</label>
+      <activeOption>0</activeOption>
+    </entry>
+    <entry>
+      <label>	DECALS_QUALITY	</label>
+      <activeOption>	0	</activeOption>
+    </entry>
+    <entry>
+      <label>	SOFT_PARTICLES	</label>
+      <activeOption>0</activeOption>
+    </entry>
+    <entry>
+      <label>	PARTICLES_PRESET	</label>
+      <activeOption>0</activeOption>
+    </entry>
+    <entry>
+      <label>	FLAGS_QUALITY	</label>
+      <activeOption>0</activeOption>
+    </entry>
+    <entry>
+      <label>	POST_PROCESSING	</label>
+      <activeOption>0</activeOption>
+    </entry>
+    <entry>
+      <label>	FXAA_QUALITY	</label>
+      <activeOption>0</activeOption>
+    </entry>
+    <entry>
+      <label>	COLORBLIND_MODE	</label>
+      <activeOption>	3	</activeOption>
+    </entry>
+    <entry>
+      <label>	VOLUMETRICCLOUDS	</label>
+      <activeOption>0</activeOption>
+    </entry>
+    <entry>
+      <label>	FAR_PLANE	</label>
+      <activeOption>0</activeOption>
+    </entry>
+    <entry>
+      <label>	SEA_SIMULATION_QUALITY	</label>
+      <activeOption>0</activeOption>
+    </entry>
+    <entry>
+      <label>	OBJECT_LOD	</label>
+      <activeOption>0</activeOption>
+    </entry>
+  </graphicsPreferences>
+  <devicePreferences>
+    <adapterOrdinal>	0	</adapterOrdinal>
+    <windowMode>1</windowMode>
+    <maximized>	false	</maximized>
+    <waitVSync>	true	</waitVSync>
+    <tripleBuffering>	true	</tripleBuffering>
+    <aspectRatio>	1.6000	</aspectRatio>
+    <userGamma>	1.0000	</userGamma>
+    <colorblindIntensity>	1.0000	</colorblindIntensity>
+    <windowedWidth>1440</windowedWidth>
+    <windowedHeight>900</windowedHeight>
+    <fullscreenWidth>1440</fullscreenWidth>
+    <fullscreenHeight>900</fullscreenHeight>
+  </devicePreferences>
+  <scriptsPreferences>
+    <lobby_values>
+      <port_preset>	basic	</port_preset>
+      <i_dont_like_premium_port>	true	</i_dont_like_premium_port>
+    </lobby_values>
+    <sound>
+      <quick_commands>	1.0000	</quick_commands>
+      <dynamic_range>	1.0000	</dynamic_range>
+      <ui_volume>	1.0000	</ui_volume>
+      <shoot_volume>	1.0000	</shoot_volume>
+      <music_volume>	1.0000	</music_volume>
+      <world_volume>	1.0000	</world_volume>
+      <master_volume>	1.0000	</master_volume>
+      <engines_volume>	1.0000	</engines_volume>
+      <sound_volume>	1.0000	</sound_volume>
+      <voice_volume>	1.0000	</voice_volume>
+      <music_battle>	1.0000	</music_battle>
+      <music_port>	1.0000	</music_port>
+      <voice_package>	KO	</voice_package>
+      <voice_mod>	IDS_SOUND_MOD_DEFAULT	</voice_mod>
+      <enable_user_music>	0.0000	</enable_user_music>
+    </sound>
+    <ui />
+    <net_credentials>
+      <save_credentials>	true	</save_credentials>
+      <active_server>	asia	</active_server>
+      <login>	test	</login>
+      <token />
+    </net_credentials>
+    <voice_chat>
+      <enabled>	1.0000	</enabled>
+    </voice_chat>
+  </scriptsPreferences>
+  <consoleHistory />
 </root>
