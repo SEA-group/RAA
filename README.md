@@ -27,4 +27,4 @@
 
 
 
-意见反馈请发送邮件到:diannao@sea-group.org
+意见反馈请发送邮件到:help@sea-group.org
