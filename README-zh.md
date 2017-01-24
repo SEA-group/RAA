@@ -1,6 +1,6 @@
 [![](https://sea-group.org/wp-content/uploads/2016/09/SEA-group-LOGO.svg)](https://sea-group.org/)
 
-RAA
+RAA综合平台
 ================
 ![](https://img.shields.io/badge/version-2.0.0.0-green.svg)
 ![](https://img.shields.io/badge/build-C%23-blue.svg)
@@ -8,9 +8,9 @@ RAA
 
 RAA是一个由SEA group出品的服务于广大战舰世界玩家的综合平台。对每场战斗中敌我双方的战绩进行分析及显示，并具有黑名单系统，方便标记战斗中遇到的Noob。具有使用方便，无需安装，解析迅速，评价准确等诸多优点，方便各位玩家在战场中更有利的进行战术规划。
 
-[SEA group Home Page](http://sea-group.org/) | [contact us](mailto:help@sea-group.org) | [中文介绍](https://github.com/SEA-group/RAA/blob/master/README-zh.md).
+[SEA主页](http://sea-group.org/) | [联系我们](mailto:help@sea-group.org) | [English Readme](https://github.com/SEA-group/RAA/blob/master/README.md).
 
-Requirements
+依赖
 ---
 * .net framework 4.0
 * Windows 7.0及以上版本
@@ -18,7 +18,7 @@ Requirements
 * 一个稳定的网络
 
 
-Use
+使用
 ---
 * 打开程序后可以切换语言。
 * 第一次选择服务器后需要设置客户端路径到游戏目录。
@@ -31,7 +31,7 @@ Use
 * 出现问题时请附带RAA目录下的log.txt文件联系我们供我们检查问题的详细信息。
 
 
-Future
+计划
 ---
 * 增加SEA group插件平台的功能。
 * 增加战斗回放的功能。
