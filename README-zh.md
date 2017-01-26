@@ -8,7 +8,7 @@ RAA综合平台
 
 RAA 是一个由 SEA group 出品的服务于广大战舰世界玩家的综合平台。对每场战斗中敌我双方的战绩进行分析及显示，并具有黑名单系统，方便标记战斗中遇到的 Noob。具有使用方便，无需安装，解析迅速，评价准确等诸多优点，方便各位玩家在战场中更有利的进行战术规划。
 
-[SEA 主页](http://sea-group.org/) | [联系我们](mailto:help@sea-group.org) | [English Readme](https://github.com/SEA-group/RAA/blob/master/README.md).
+[SEA主页](http://sea-group.org/) | [联系我们](mailto:help@sea-group.org) | [English Readme](https://github.com/SEA-group/RAA/blob/master/README.md).
 
 依赖
 ---
