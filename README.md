@@ -1,49 +1,49 @@
-[![](https://github.com/SEA-group/gallery/blob/master/logo/sea&raa.png?raw=true)](https://sea-group.org/)
+﻿[![](https://github.com/SEA-group/gallery/blob/master/logo/sea&raa.png?raw=true)](https://sea-group.org/)
 
-RAA
+RAA integrated platform
 ================
 ![](https://img.shields.io/badge/version-2.0.0.0-green.svg)
 ![](https://img.shields.io/badge/build-C%23-00FFFF.svg)
 ![](https://img.shields.io/badge/framework-.net4.0%2B-red.svg)
 
-RAA是一个由SEA group出品的服务于广大战舰世界玩家的综合平台。对每场战斗中敌我双方的战绩进行分析及显示，并具有黑名单系统，方便标记战斗中遇到的Noob。具有使用方便，无需安装，解析迅速，评价准确等诸多优点，方便各位玩家在战场中更有利的进行战术规划。
+RAA, designed and provided by SEA-GROUP, is an integrated platform that servicing World of Warship players all around the world. It will analyze and monitor the status of players on both sides while a blacklist system is added in order to mark those NOOB that we faced in the game. It has the advantage of flexibility, non-installation, quick analysis and accurate evaluation, which help players to create better strategy on the battlefield.
 
-[SEA group Home Page](http://sea-group.org/) | [contact us](mailto:help@sea-group.org) | [中文介绍](https://github.com/SEA-group/RAA/blob/master/README-zh.md).
+[SEA Main page](http://sea-group.org/) | [Contact us](mailto:help@sea-group.org) | [中文说明](https://github.com/SEA-group/RAA/blob/master/README-zh.md).
 
-Requirements
+Requirement
 ---
 * .net framework 4.0
-* Windows 7.0及以上版本
-* 战舰世界0.6.0.0及以上版本
-* 一个稳定的网络
+* Windows 7.0 or better version
+* World of Warships 0.6.0.0 or higher version
+* an stable network
 
 
-Use
+User Guidance
 ---
-* 打开程序后可以切换语言。
-* 第一次选择服务器后需要设置客户端路径到游戏目录。
-* 点击自动解析后每次进入战斗后一两分钟内会显示当场所有玩家的信息。
-* 右键玩家名称可以将其拉黑，当一个玩家被多数玩家拉黑时，其将会进入到全服黑名单，玩家自行拉黑的玩家和全服黑名单中的玩家在游戏中遇到时均会高亮标记。
-* 可以在功能面板中设置背景颜色。
-* 左上角功能面板中可以切换横板或竖版模式。
-* 使用Alt+Q(阿里旺旺有冲突)切换是否在游戏之上屏幕打印的状态，请注意这只运行在游戏全屏窗口化模式或窗口化模式。
-* 新版本更新后突然出现程序闪退/崩溃等情况时请删除“config.ini”文件再次尝试。
-* 出现问题时请附带RAA目录下的log.txt文件联系我们供我们检查问题的详细信息。
+* Open the software and switching the language
+* After selecting the server for the first time, set the client path to the game document path.
+* Select auto analysis, then you can see all players’ info within 1~2 minutes after each time you enter the battle.
+* Right click the player’s name then you can move it into the blacklist. After being sent into blacklist by multiple players, this poor player will be added into the server blacklist. If these players exist in one player’s blacklist while also exist in the server blacklist, they will be marked with high-light when player face them in the game.
+* You can set the background color in the function setting panel.
+* You can use the function setting panel on the upper left corner to setup horizon- or vertical mode.
+* You can use ALT+Q (May contradict to Ali-Want) to switch between whether print the data on the screen or not. Be aware this function can only be used in full-screen mode or restore-down mode.
+* If the software flash-back or crash after upgrading to the new version, please delete “config.ini” file and try again.
+* If there’s any problem exist, please use the log.txt file in RAA path to contact so that we can find out the details of the problem and try to solve the problem ASAP.
 
-RAA数值
+RAA value
 ---
-* 采用了更全面的参数构建出的更系统的评判玩家水平的算法。
-* 未来将会推出web端的战绩查询及排名系统。
+* We adopt a new algorithm that can evaluate players ’performance with more parameters and provide a more systematic result.
+* Web client for players’ record search and ranking system will be added in the future.
 
-插件及涂装平台
+Mod and Camouflage platform
 ---
-* 插件平台已制作完工，在功能面板-插件及涂装可以打开。
-* 进入插件平台后请在上方选择分类后将会显示此分类下的插件。
-* 本插件平台具有一键安装和一键卸载的功能。
-* 本插件平台兼容所有服务器。将会自动识别版本显示可用的插件。
-* 本插件平台不修改游戏源文件。不会影响游戏的运行。不会降低游戏效率。
-* 目前本插件平台暂提供本工作组的插件及涂装，统共数量百余个。 将逐步上传完成。
+* Mod platform has been done and can be open in function panel—mod and camouflage
+* After entering the mod platform, select sort and you can see the mod for this sort.
+* Our platform provides functions of one-click installation and one-click uninstallation.
+* Our platform is compatible with all servers and can create auto-identification of the game version so that usable mod will be provided.
+* Our mod platform will not modify the original files of the game so that the game will work as usual and the efficiency won’t be influenced.
+* At the moment, only mods and camouflage that created by us will be provided, which is about hundred. All of them will be uploaded progressively.
 
-计划
+Future Planning
 ---
-* 增加更详细的战斗回放的功能。
+* We will provide replay function in future upgrade, with more details can be added.
