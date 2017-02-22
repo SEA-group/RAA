@@ -23,12 +23,11 @@ Using RAA
 * Select language interface upon launching.
 * Choose game server and set path to game executable file accordingly.
 * Click Automatic Analyze button and player stats/team analytics will be automatically displayed upon each battle start. Latency may vary depending on your connection to RAA server. Please restart RAA if unable to load info after 2 min.
-* You may right click on specific player ID and blacklist the player. If a certain player is blacklisted by multiple RAA users, the player ID will be enlisted to global blacklist of RAA. Blacklist entries, user or global, are highlighted in real-time analytics. 
+* You may right click on specific player ID and blacklist the player. If a certain player is blacklisted by multiple RAA users, the player ID will be enlisted in Global Blacklist of RAA. Blacklist entries, user or global, are highlighted in real-time analytics. 
 * Background color can be set via Options menu.
-* You may toggle vertical or horizontal interface from Option menu.
+* You may toggle vertical or horizontal interface from Options menu.
 * Alt+Q toggles on-screen-display of RAA in window mode and full-screen window mode
 * If you experience crash after updating RAA, please remove config.ini in RAA directory and try again.
-* Please attach log.txt in RAA directory when submitting a bug report.
 
 RAA Point
 ---
@@ -37,7 +36,7 @@ RAA Point
 
 Mods platform
 ---
-* Mods platform is live. Please try it in out in Options->Mods&camo.
+* Mods platform is live. Please try it out in Options->Mods&camo.
 * Choose a mods category and enlisted entries will display.
 * One-click installation/uninstallation is implemented.
 * Support all WOWS servers. Server-specific mods are automatically sorted.
