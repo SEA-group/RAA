@@ -1,49 +1,49 @@
-﻿[![](https://github.com/SEA-group/gallery/blob/master/logo/sea&raa.png?raw=true)](https://sea-group.org/)
+[![](https://github.com/SEA-group/gallery/blob/master/logo/sea&raa.png?raw=true)](https://sea-group.org/)
 
-RAA integrated platform
+RAA
 ================
 ![](https://img.shields.io/badge/version-2.0.0.0-green.svg)
 ![](https://img.shields.io/badge/build-C%23-00FFFF.svg)
 ![](https://img.shields.io/badge/framework-.net4.0%2B-red.svg)
 
-RAA, designed and provided by SEA-GROUP, is an integrated platform that servicing World of Warship players all around the world. It will analyze and monitor the status of players on both sides while a blacklist system is added in order to mark those NOOB that we faced in the game. It has the advantage of flexibility, non-installation, quick analysis and accurate evaluation, which help players to create better strategy on the battlefield.
+RAA, presented by SEA group, is an integrated platform of stat display, team analytics and blacklisting. As a side-loading app, it is easy to use and without the need of installation. It provides real-time information of both teams and helps user planning tactics accordingly. 
 
-[SEA Main page](http://sea-group.org/) | [Contact us](mailto:help@sea-group.org) | [中文说明](https://github.com/SEA-group/RAA/blob/master/README-zh.md).
+[SEA group Home Page](http://sea-group.org/) | [contact us](mailto:help@sea-group.org) | [中文介绍](https://github.com/SEA-group/RAA/blob/master/README-zh.md).
 
-Requirement
+Requirements
 ---
 * .net framework 4.0
-* Windows 7.0 or better version
-* World of Warships 0.6.0.0 or higher version
-* an stable network
+* Windows 7.0 or later versions
+* World of Warships 0.6.0.0 or later versions
+* Internet connection
 
 
-User Guidance
+Using RAA
 ---
-* Open the software and switching the language
-* After selecting the server for the first time, set the client path to the game document path.
-* Select auto analysis, then you can see all players’ info within 1~2 minutes after each time you enter the battle.
-* Right click the player’s name then you can move it into the blacklist. After being sent into blacklist by multiple players, this poor player will be added into the server blacklist. If these players exist in one player’s blacklist while also exist in the server blacklist, they will be marked with high-light when player face them in the game.
-* You can set the background color in the function setting panel.
-* You can use the function setting panel on the upper left corner to setup horizon- or vertical mode.
-* You can use ALT+Q (May contradict to Ali-Want) to switch between whether print the data on the screen or not. Be aware this function can only be used in full-screen mode or restore-down mode.
-* If the software flash-back or crash after upgrading to the new version, please delete “config.ini” file and try again.
-* If there’s any problem exist, please use the log.txt file in RAA path to contact so that we can find out the details of the problem and try to solve the problem ASAP.
+* Select language interface upon launching.
+* Choose game server and set path to game executable file accordingly.
+* Click Automatic Analyze button and player stats/team analytics will be automatically displayed upon each battle start. Latency may vary depending on your connection to RAA server. Please restart RAA if unable to load info after 2 min.
+* You may right click on specific player ID and blacklist the player. If a certain player is blacklisted by multiple RAA users, the player ID will be enlisted to global blacklist of RAA. Blacklist entries, user or global, are highlighted in real-time analytics. 
+* Background color can be set via Options menu.
+* You may toggle vertical or horizontal interface from Option menu.
+* Alt+Q toggles on-screen-display of RAA in window mode and full-screen window mode
+* If you experience crash after updating RAA, please remove config.ini in RAA directory and try again.
+* Please attach log.txt in RAA directory when submitting a bug report.
 
-RAA value
+RAA Point
 ---
-* We adopt a new algorithm that can evaluate players ’performance with more parameters and provide a more systematic result.
-* Web client for players’ record search and ranking system will be added in the future.
+* Improved algorithm for RAA points that predicts player skill level more objectively.
+* Web app for stats database and ranking system is in development.
 
-Mod and Camouflage platform
+Mods platform
 ---
-* Mod platform has been done and can be open in function panel—mod and camouflage
-* After entering the mod platform, select sort and you can see the mod for this sort.
-* Our platform provides functions of one-click installation and one-click uninstallation.
-* Our platform is compatible with all servers and can create auto-identification of the game version so that usable mod will be provided.
-* Our mod platform will not modify the original files of the game so that the game will work as usual and the efficiency won’t be influenced.
-* At the moment, only mods and camouflage that created by us will be provided, which is about hundred. All of them will be uploaded progressively.
+* Mods platform is live. Please try it in out in Options->Mods&camo.
+* Choose a mods category and enlisted entries will display.
+* One-click installation/uninstallation is implemented.
+* Support all WOWS servers. Server-specific mods are automatically sorted.
+* Does not replace game source files.
+* Current collection includes 100+ mods and camo packs made by SEA group, inventory is updated constantly.
 
-Future Planning
+Pending
 ---
-* We will provide replay function in future upgrade, with more details can be added.
+* Integrated battle replay function.
