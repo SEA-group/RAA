@@ -2,13 +2,13 @@
 
 RAA综合平台
 ================
-![](https://img.shields.io/badge/version-2.0.0.0-green.svg)
+![](https://img.shields.io/badge/version-3.1.0.5-green.svg)
 ![](https://img.shields.io/badge/build-C%23-00FFFF.svg)
-![](https://img.shields.io/badge/framework-.net4.0%2B-red.svg)
+![https://www.microsoft.com/zh-cn/download/details.aspx?id=48130](https://img.shields.io/badge/framework-.net4.6-red.svg)
 
 RAA 是一个由 SEA group 出品的服务于广大战舰世界玩家的综合平台。对每场战斗中敌我双方的战绩进行分析及显示，并具有黑名单系统，方便标记战斗中遇到的 Noob。具有使用方便，无需安装，解析迅速，评价准确等诸多优点，方便各位玩家在战场中更有利的进行战术规划。
 
-[SEA主页](http://sea-group.org/) | [联系我们](mailto:help@sea-group.org) | [English Readme](https://github.com/SEA-group/RAA/blob/master/README.md).
+[SEA主页](https://sea-group.org/) | [联系我们](mailto:help@sea-group.org) | [English Readme](https://github.com/SEA-group/RAA/blob/master/README.md).
 
 依赖
 ---

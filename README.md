@@ -2,13 +2,13 @@
 
 RAA
 ================
-![](https://img.shields.io/badge/version-2.0.0.0-green.svg)
+![](https://img.shields.io/badge/version-3.1.0.5-green.svg)
 ![](https://img.shields.io/badge/build-C%23-00FFFF.svg)
-![](https://img.shields.io/badge/framework-.net4.0%2B-red.svg)
+![https://www.microsoft.com/en-us/download/details.aspx?id=48130](https://img.shields.io/badge/framework-.net4.6-red.svg)
 
 RAA, presented by SEA group, is an integrated platform of stat display, team analytics and blacklisting. As a side-loading app, it is easy to use and without the need of installation. It provides real-time information of both teams and helps user planning tactics accordingly. 
 
-[SEA group Home Page](http://sea-group.org/) | [contact us](mailto:help@sea-group.org) | [中文介绍](https://github.com/SEA-group/RAA/blob/master/README-zh.md).
+[SEA group Home Page](https://sea-group.org/) | [contact us](mailto:help@sea-group.org) | [中文介绍](https://github.com/SEA-group/RAA/blob/master/README-zh.md).
 
 Requirements
 ---
