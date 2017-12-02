@@ -1,4 +1,4 @@
-[![](https://github.com/SEA-group/gallery/blob/master/logo/sea&raa.png?raw=true)](https://sea-group.org/)
+[![](https://sea-group.org/wp-content/uploads/2017/11/searaa.png)](https://sea-group.org/)
 
 RAA
 ================
@@ -12,7 +12,7 @@ RAA, presented by SEA group, is an integrated platform of stat display, team ana
 
 Requirements
 ---
-* .net framework 4.0
+* .net framework 4.6
 * Windows 7.0 or later versions
 * World of Warships 0.6.0.0 or later versions
 * Internet connection

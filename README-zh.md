@@ -12,7 +12,7 @@ RAA 是一个由 SEA group 出品的服务于广大战舰世界玩家的综合�
 
 依赖
 ---
-* .net framework 4.0
+* .net framework 4.6
 * Windows 7.0 及以上版本
 * 战舰世界 0.6.0.0 及以上版本
 * 一个稳定的网络
