@@ -1,4 +1,4 @@
-[![](https://sea-group.org/wp-content/uploads/2017/11/searaa.png)](https://sea-group.org/)
+[![](https://github.com/SEA-group/gallery/blob/master/logo/RAA_Title_Mk2_mod1.png?raw=true)](https://sea-group.org/)
 
 RAA
 ================

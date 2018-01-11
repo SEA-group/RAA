@@ -1,4 +1,4 @@
-[![](https://github.com/SEA-group/gallery/blob/master/logo/sea&raa.png?raw=true)](https://sea-group.org/)
+[![](https://github.com/SEA-group/gallery/blob/master/logo/RAA_Title_Mk2_mod1.png?raw=true)](https://sea-group.org/)
 
 RAA综合平台
 ================
